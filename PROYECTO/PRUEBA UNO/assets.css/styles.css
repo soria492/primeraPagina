@@ -1,0 +1,15 @@
+h1 {color: rgb(193, 207, 130);}
+
+h2 {color:aqua;}
+h3 {color: rgb(218, 222, 170)}
+
+body{
+
+    background-image: url(IMAGENES/10.jpg);
+    
+    .color{
+        color: rgb(9, 10, 14);}
+        
+font-size: 20px;
+        
+}
